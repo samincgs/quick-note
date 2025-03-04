@@ -1,3 +1,3 @@
 <template>
-  <h1>Register</h1>
+  <h1 class="text-3xl font-bold text-red-500">Register</h1>
 </template>
